@@ -1,0 +1,22 @@
+{
+  "name": "rice-arch-dark",
+  "displayName": "Riced Arch Dark",
+  "description": "A riced Arch Linux inspired dark theme with deep blacks, soft accents, and crisp readability.",
+  "version": "0.0.1",
+  "publisher": "BoringPenguin",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Riced Arch Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Riced Arch Dark-color-theme.json"
+      }
+    ]
+  }
+}
